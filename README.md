@@ -1,6 +1,6 @@
-# Customer Acquistion Analytics: Capstone Project
+# Customer Acquistion Analytics
 
-1.	PROBLEM STATEMENT AND BUSINESS REQUIREMENT
+1.	BUSINESS REQUIREMENT
 
 CredX is a leading credit card provider. It receives thousands of credit card applicants every year. However, in the past few years it has experienced an increase in credit loss for such issued credit cards. 
 Our endeavor would be to help CredX to identify the right set of customers using predictive models such that right set of customers are acquired, and credit loss is minimized. 
