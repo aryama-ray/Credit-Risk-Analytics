@@ -56,3 +56,18 @@ Key finding from the analysis:
 4. with number of queries made in last 6/12 months excluding home/auto loans
 
 2.3 Calculation of Weigh of Evidence(WoE) and IV Values
+
+                               Variable           IV
+       Avgas.CC.Utilization.in.last.12.months 0.2610204093
+                           Total.No.of.Trades 0.2089818314
+            No.of.months.in.current.residence 0.0649495645
+                   Presence.of.open.home.loan 0.0169166671
+              No.of.months.in.current.company 0.0131186314
+                             No.of.dependents 0.0029249685
+                                   Profession 0.0020202656
+                   Presence.of.open.auto.loan 0.0015484526
+                            Type.of.residence 0.0008705523
+                                    Education 0.0008287873
+                                       Gender 0.0002698331
+  Marital.Status..at.the.time.of.application. 0.0001039180
+
