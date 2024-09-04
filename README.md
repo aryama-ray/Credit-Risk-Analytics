@@ -74,11 +74,11 @@ Key finding from the analysis:
 3. Model building
  
 #---------------------------------------------------------------------------------------------------------------------------------
-# Model Type						Accuracy	Sensitivity	Specificity	KS Statistic	ProbCutoff
+#### Model Type						Accuracy	Sensitivity	Specificity	KS Statistic	ProbCutoff
 #---------------------------------------------------------------------------------------------------------------------------------
-# Biased Data - Logistic Regression	    		0.6342029	0.6204955	0.6348173	0.2553128	0.0450000
-# Biased Data - Random Forest				0.6227053	0.6103604	0.6232586	0.2336190	0.0388000
-# Unbiased Data - SMOTE - Logistic Regression		0.6794686	0.5540541	0.6850898	0.2391439	0.5346465
-# Unbiased Data - SMOTE - Random Forest without CV	0.6307246	0.5900901	0.6325459 	0.2226360	0.3611111
-# Unbiased Data - SMOTE - Random Forest with CV		0.6035749	0.5822072	0.6045326	0.1867398	0.3291919
+- Biased Data - Logistic Regression	    		0.6342029	0.6204955	0.6348173	0.2553128	0.0450000
+- Biased Data - Random Forest				0.6227053	0.6103604	0.6232586	0.2336190	0.0388000
+- Unbiased Data - SMOTE - Logistic Regression		0.6794686	0.5540541	0.6850898	0.2391439	0.5346465
+- Unbiased Data - SMOTE - Random Forest without CV	0.6307246	0.5900901	0.6325459 	0.2226360	0.3611111
+- Unbiased Data - SMOTE - Random Forest with CV		0.6035749	0.5822072	0.6045326	0.1867398	0.3291919
 #---------------------------------------------------------------------------------------------------------------------------------
