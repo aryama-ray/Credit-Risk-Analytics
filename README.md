@@ -45,3 +45,12 @@ This data set has total 71295 records along with 19 variables.
 	Both the data sets have unique Application ID for each record
 	Both the data sets have 71292 unique records
 	Both the data sets haveperformance tag indicating good and defaulter/bad customers
+ 
+2.2 Exploratory Data Analysis
+
+Key finding from the analysis:
+
+1. Number of times customer has not payed dues since 90/60/30 days in last 6/12 months are highly correlated with each other.
+2. Presence of home loan and outstanding balance are highly correlated
+3. Total number of trades highly correlated with number of trades/PL trades opened in last 6/12 months.It has also high correlation 
+4. with number of queries made in last 6/12 months excluding home/auto loans
