@@ -54,3 +54,5 @@ Key finding from the analysis:
 2. Presence of home loan and outstanding balance are highly correlated
 3. Total number of trades highly correlated with number of trades/PL trades opened in last 6/12 months.It has also high correlation 
 4. with number of queries made in last 6/12 months excluding home/auto loans
+
+2.3 Calculation of Weigh of Evidence(WoE) and IV Values
