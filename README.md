@@ -82,3 +82,9 @@ Unbiased Data - SMOTE - Logistic Regression	 0.6794686	0.5540541	0.6850898	0.239
 Unbiased Data - SMOTE - Random Forest without CV 0.6307246	0.5900901	0.6325459 	0.2226360	0.3611111
 Unbiased Data - SMOTE - Random Forest with CV	 0.6035749	0.5822072	0.6045326	0.1867398	0.3291919
 #---------------------------------------------------------------------------------------------------------------------------------
+
+4. Application Score Card
+
+Application Score Card and Financial Analysis is performed for Random Forest Unbised Data without CV.
+Factor <- (20/log(2))
+offset <- 400 - (Factor*log(10))
