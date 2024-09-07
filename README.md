@@ -1,4 +1,4 @@
-# Customer Acquistion Analytics
+# Credit Risk Analytics
 
 1.	BUSINESS REQUIREMENT
 
@@ -86,6 +86,11 @@ Key finding from the analysis:
 4. Application Score Card
 
 Application Score Card and Financial Analysis is performed for Random Forest Unbised Data without CV.
+Cut off credit score is calculated in the following way.
 
 -  Factor <- (20/log(2))
 -  offset <- 400 - (Factor*log(10))
+
+- Calculated Cut off score:350.0239
+
+- 59% of total potential defaulter customer will be denied of credit card using this model
